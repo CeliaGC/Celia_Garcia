@@ -1,4 +1,5 @@
 # Celia_Garcia
+https://raw.githubusercontent.com/CeliaGC/repositorio/Celia_García/ruta/al/asset
 ## Quién soy
 Soy una incipiente coder que ha realizado un bootcamp de desarrollo web full stack donde ha descubierto su pasión por la programación y muchas otras habildades duras y blandas, arropada por un equipo de formadores y compañeras extraordinario.
 
