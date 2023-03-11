@@ -13,3 +13,22 @@ A todo ello sumo aptitudes he desarrollado en el bootcamp, pues me fascina la pe
 Con todas estas experiencias que llamo "el camino de baldosas amarillas", me encuentro abierta a oportunidades laborales donde voy a seguir creciendo, afianzando mis competencias y alcanzando todos los objetivos que se presenten.
 
 ![hackatonn](https://github.com/CeliaGC/Celia_Garcia/blob/main/hackatonn.png)
+
+## Mi perfil en LinkedIn 
+
+https://www.linkedin.com/in/celia-garc%C3%ADa-castilla/
+
+## Stack 👩‍💻
+
+<div style="display:flex, flexdirection:row"><img style="width:50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="HTML5"/>
+<img style="width:50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="CSS"/>
+<img style="width:50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  alt="Sass"/>
+<img style="width:50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="JavaScript"/>
+<img style="width:50px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"  alt="React"/>
+<img style="width:50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="Bootstrap"/>
+<img style="width:50px" src="https://pbs.twimg.com/profile_images/610586699798835201/OuezNT-e_400x400.png"  alt="Bootstrap"/>
+<img style="width:50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="Node"/>
+<img style="width:50px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"  alt="C#"/>
+<img style="width:50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png"  alt="Net Core"/>
+<img style="width:50px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"  alt="Microsoft SQL Server"/>
+<img style="width:50px" 
