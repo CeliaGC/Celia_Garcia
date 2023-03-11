@@ -1,7 +1,6 @@
 # Celia_Garcia
-https://raw.githubusercontent.com/CeliaGC/repositorio/Celia_García/ruta/al/asset
+Soy una incipiente coder que ha realizado un bootcamp de desarrollo web full stack donde ha descubierto su pasión por la programación y muchas otras habildades duras y blandas, arropada por un equipo de formadores y compañeras extraordinario. Te lo explico ⏬
 ## Quién soy
-Soy una incipiente coder que ha realizado un bootcamp de desarrollo web full stack donde ha descubierto su pasión por la programación y muchas otras habildades duras y blandas, arropada por un equipo de formadores y compañeras extraordinario.
 
 Después trabajar en distintos puestos de atención al público en el sector servicios, como camarera, dependienta o limpiadora, mi camino se abrió desde la gestión documental al mundo del desarrollo web, las metodologías Agile y la pedagogía activa. 
 
@@ -12,3 +11,6 @@ En 2022 tuve la oportunidad de comenzar el bootcamp de desarrollo web con Factor
 A todo ello sumo aptitudes he desarrollado en el bootcamp, pues me fascina la pedagogía activa en la que se basa. La docencia es ahora un área en la que tengo mucho que aportar: disfruto comprendiendo conceptos nuevos y compartiendo lo aprendido, contagiando siempre a los demás de ese entusiasmo con que vivo los procesos de aprendizaje.
 
 Con todas estas experiencias que llamo "el camino de baldosas amarillas", me encuentro abierta a oportunidades laborales donde voy a seguir creciendo, afianzando mis competencias y alcanzando todos los objetivos que se presenten.
+
+![hackatonn](https://github.com/CeliaGC/Celia_Garcia/blob/main/hackaton.png)
+![pildora_API](https://github.com/CeliaGC/Celia_Garcia/blob/main/pildoraAPI.png)
