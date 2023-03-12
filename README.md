@@ -14,7 +14,7 @@ A todo ello sumo aptitudes que descubierto en el bootcamp, pues me fascina la pe
 
 Con todas estas experiencias que llamo "el camino de baldosas amarillas", estoy abierta a oportunidades laborales donde voy a seguir creciendo, afianzando mis competencias y alcanzando todos los objetivos que se presenten.
 
-![hackatonn](https://github.com/CeliaGC/Celia_Garcia/blob/main/assets/hackatonn.png)
+![API_p](https://github.com/CeliaGC/Celia_Garcia/blob/main/assets/API_p.png)
 
 ## Stack 💻
 
