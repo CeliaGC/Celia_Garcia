@@ -1,10 +1,10 @@
 # Celia_Garcia👩‍💻
 
-Soy una coder que ha realizado un bootcamp de desarrollo web full stack donde ha descubierto su pasión por la programación y muchas otras habildades duras y blandas, arropada por un equipo de formadores y compañeras extraordinario. Te lo explico ⏬
+Después de distintos trabajos como camarera, dependienta o limpiadora, mi camino se abrió desde la gestión documental al mundo del desarrollo web, las metodologías Agile y la pedagogía activa. Te lo explico ⏬
 
 ## Quién soy 🤔
 
-Después de distintos trabajos como camarera, dependienta o limpiadora, mi camino se abrió desde la gestión documental al mundo del desarrollo web, las metodologías Agile y la pedagogía activa. 
+Soy una coder que ha realizado un bootcamp de desarrollo web full stack donde ha descubierto su pasión por la programación y muchas otras habildades duras y blandas, arropada por un equipo de formadores y compañeras extraordinario. 
 
 Todo comenzó cursando un grado online de Información y Documentación donde tuve el placer inesperado de aprender funciones de Excel, de manejar el panel de animaciones de PowerPoint e incluso de hacer una breve incursión en los lenguajes estructurados estudiando SQL. Empezó a interesarme alcanzar un perfil profesional digital.
 
