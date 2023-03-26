@@ -1,6 +1,6 @@
 # Celia_Garcia👩‍💻
 
-Después de distintos trabajos como camarera, dependienta o limpiadora, mi camino se abrió desde la gestión documental al mundo del desarrollo web, las metodologías Agile y la pedagogía activa. Te lo explico ⏬
+Después de diversos desempeños en el sector servicios, mi camino se abrió desde la gestión documental al mundo del desarrollo web, las metodologías Agile y la pedagogía activa. Te lo explico ⏬
 
 ## Quién soy 🤔
 
@@ -8,11 +8,14 @@ Soy una coder que ha realizado un bootcamp de desarrollo web full stack donde ha
 
 Todo comenzó cursando un grado online de Información y Documentación donde tuve el placer inesperado de aprender funciones de Excel, de manejar el panel de animaciones de PowerPoint e incluso de hacer una breve incursión en los lenguajes estructurados estudiando SQL. Empezó a interesarme alcanzar un perfil profesional digital.
 
-En 2022 tuve la oportunidad de comenzar el bootcamp de desarrollo web con FactoríaF5 en colaboración con Fundación Don Bosco, una experiencia increíble de crecimiento en todos los sentidos, donde trabajamos con método SCRUM, llevando a cabo proyectos de front-end y de back-end, adquiriendo junto al stack tecnológico (Figma, HTML, CSS, Javascript, C#, React, Git, Visual Studio Code, entre otros) las competencias transversales imprescindibles para el trabajo en equipo. 
+En 2022 tuve la oportunidad de comenzar un bootcamp de desarrollo web full-stack que estoy a punto de finalizar, una experiencia increíble de crecimiento en todos los sentidos, donde trabajamos con el método SCRUM, llevando a cabo proyectos de aplicaciones web desde la maquetación en Figma, creando en back-end bases de datos y API que comunican con un front-end concebido para una buena experiencia de usuario.
 
-A todo ello sumo aptitudes que descubierto en el bootcamp, pues me fascina la pedagogía activa en la que se basa. La docencia es ahora un área en la que tengo mucho que aportar: disfruto comprendiendo conceptos nuevos y compartiendo lo aprendido, contagiando siempre a los demás de ese entusiasmo con que vivo los procesos de aprendizaje.
+Mi stack tecnológico incluye lenguajes como HTML5, CSS, Javascript, C#, SQL, interfaz DOM, librerías como React Vite, Bootstrap, Materials UI, framework ASPNET Core 6, sistema de gestión de versiones Git y las herramientas MS Visual stuido code, Visual studio y MS SQL Server Studio Management.
 
-Con todas estas experiencias que llamo "el camino de baldosas amarillas", estoy abierta a oportunidades laborales donde voy a seguir creciendo, afianzando mis competencias y alcanzando todos los objetivos que se presenten.
+A todo ello sumo competencias transversales fundamentales para el trabajo en equipo, como la comunicación, el entusiasmo y el aprendizaje continuo. Este aprendizaje continuo me ha situado en mis equipos de trabajo como un referente para adquirir y compartir conocimientos, pues disfruto aprendiendo conceptos nuevos y transmitiendo lo aprendido, contagiando siempre a los demás de ese entusiasmo con que vivo los procesos de aprendizaje.
+
+Con todas estas experiencias, me encuentro abierta a oportunidades laborales donde voy a seguir afianzando y aumentando mis competencias, alcanzando todos los objetivos que se presenten en cada proyecto del que forme parte.
+
 
 ![API_p](https://github.com/CeliaGC/Celia_Garcia/blob/main/assets/API_p.png)
 
