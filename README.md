@@ -1,23 +1,18 @@
 # Celia_Garcia👩‍💻
 
-Después de diversos desempeños en el sector servicios, mi camino se abrió desde la gestión documental al mundo del desarrollo web, las metodologías Agile y la pedagogía activa. Te lo explico ⏬
+Soy una desarrolladora web, vengo de la pedagogía activa y trabajo con marcos Agile. Te lo explico ⏬
 
 ## Quién soy 🤔
 
-Soy una coder que ha realizado un bootcamp de desarrollo web full stack donde ha descubierto su pasión por la programación y muchas otras habildades duras y blandas, arropada por un equipo de formadores y compañeras extraordinario. 
-
-Todo comenzó cursando un grado online de Información y Documentación donde tuve el placer inesperado de aprender funciones de Excel, de manejar el panel de animaciones de PowerPoint e incluso de hacer una breve incursión en los lenguajes estructurados estudiando SQL. Empezó a interesarme alcanzar un perfil profesional digital.
-
-En 2022 tuve la oportunidad de comenzar un bootcamp de desarrollo web full-stack que estoy a punto de finalizar, una experiencia increíble de crecimiento en todos los sentidos, donde trabajamos con el método SCRUM, llevando a cabo proyectos de aplicaciones web desde la maquetación en Figma, creando en back-end bases de datos y API que comunican con un front-end concebido para una buena experiencia de usuario.
+Soy una coder con formación y proyectos full stack. En 2022 - 2023 cursé un bootcamp de desarrollo web Full Stack de Factoría F5 en colaboración con Fundación Don Bosco Sevilla, una experiencia de crecimiento en todos los sentidos, donde trabajamos desde la pedagogía activa, con metodología SCRUM, llevando a cabo proyectos de aplicaciones web desde la maquetación en Figma, bases de datos y APIs que comunican con un front-end concebido para una buena experiencia de usuario.
 
 Mi stack tecnológico incluye lenguajes como HTML5, CSS, Javascript, C#, SQL, interfaz DOM, librerías como React Vite, Bootstrap, Materials UI, framework ASPNET Core 6, sistema de gestión de versiones Git y las herramientas MS Visual stuido code, Visual studio y MS SQL Server Studio Management.
 
-A todo ello sumo competencias transversales fundamentales para el trabajo en equipo, como la comunicación, el entusiasmo y el aprendizaje continuo. Este aprendizaje continuo me ha situado en mis equipos de trabajo como un referente para adquirir y compartir conocimientos, pues disfruto aprendiendo conceptos nuevos y transmitiendo lo aprendido, contagiando siempre a los demás de ese entusiasmo con que vivo los procesos de aprendizaje.
+A todo ello sumo competencias transversales fundamentales para el trabajo en equipo, como la comunicación, el entusiasmo, el aprendizaje continuo y una de las más importantes en IT: la capacidad de adpatarme a cualquier stack de forma ágil y autónoma.
+
+En mis equipos de trabajo me he situado como referente pedagógico, pues disfruto aprendiendo conceptos nuevos y compartiendo lo aprendido, y como desarrolladora back end diseñando bases de datos relacionales y construyéndolas en SQL Server Studio Management desde proyectos Web API con .NET Entity FW, atendiendo también el desarrollo del front según lo requiera cada proyecto.
 
 Con todas estas experiencias, me encuentro abierta a oportunidades laborales donde voy a seguir afianzando y aumentando mis competencias, alcanzando todos los objetivos que se presenten en cada proyecto del que forme parte.
-
-
-![API_p](https://github.com/CeliaGC/Celia_Garcia/blob/main/assets/API_p.png)
 
 ## Stack 💻
 
@@ -38,6 +33,18 @@ src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad
 <img style="width:50px" src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="Figma"/>
 
 </div>
+
+## Proyectos 
+
+https://github.com/Proyecto-Pedagogico-Recetas
+https://github.com/MyFaveImagesProject
+https://github.com/Alambiqueproyect
+https://github.com/CeliaGC/ApiiWeb
+https://github.com/CeliaGC/HOT-BUY
+https://github.com/CeliaGC/releerte
+https://github.com/CeliaGC/List_admin
+https://github.com/CeliaGC/enjoy-learn
+https://github.com/CeliaGC/localize_me
 
 ## Contacta conmigo
 
