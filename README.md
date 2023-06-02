@@ -37,13 +37,21 @@ src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad
 ## Proyectos 
 
 https://github.com/Proyecto-Pedagogico-Recetas
+
 https://github.com/MyFaveImagesProject
+
 https://github.com/Alambiqueproyect
+
 https://github.com/CeliaGC/ApiiWeb
+
 https://github.com/CeliaGC/HOT-BUY
+
 https://github.com/CeliaGC/releerte
+
 https://github.com/CeliaGC/List_admin
+
 https://github.com/CeliaGC/enjoy-learn
+
 https://github.com/CeliaGC/localize_me
 
 ## Contacta conmigo
