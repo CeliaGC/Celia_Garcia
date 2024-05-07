@@ -1,18 +1,16 @@
 # Celia_Garcia👩‍💻
 
-Soy una desarrolladora web, vengo de la pedagogía activa y trabajo con marcos Agile. Te lo explico ⏬
+Soy una desarrolladora web, vengo de la pedagogía activa y trabajo actualmente como formadora. Te lo explico ⏬
 
 ## Quién soy 🤔
 
-Soy una coder con formación y proyectos full stack. En 2022 - 2023 cursé un bootcamp de desarrollo web Full Stack de Factoría F5 en colaboración con Fundación Don Bosco Sevilla, una experiencia de crecimiento en todos los sentidos, donde trabajamos desde la pedagogía activa, con metodología SCRUM, llevando a cabo proyectos de aplicaciones web desde la maquetación en Figma, bases de datos y APIs que comunican con un front-end concebido para una buena experiencia de usuario.
+En 2022 - 2023 cursé un bootcamp de desarrollo web Full Stack de Factoría F5 en colaboración con Fundación Don Bosco Sevilla, una experiencia de crecimiento en todos los sentidos, donde trabajamos desde la pedagogía activa, con metodología SCRUM, llevando a cabo proyectos de aplicaciones web desde la maquetación en Figma, bases de datos y APIs que comunican con un front-end concebido para una buena experiencia de usuario.
 
-Mi stack tecnológico incluye lenguajes como HTML5, CSS, Javascript, C#, SQL, interfaz DOM, librerías como React Vite, Bootstrap, Materials UI, framework ASPNET Core 6, sistema de gestión de versiones Git y las herramientas MS Visual stuido code, Visual studio y MS SQL Server Studio Management.
+Mi stack incluye HTML5, CSS, Javascript, C#, ASPNET Core 6, Python, Flask, SQL, React, librerías de estilos, sistema de gestión de versiones Git, entre otros, para construir bases de datos y aplicaciones web como páginas con sesiones de usuario y APIs Restful.
 
 A todo ello sumo competencias transversales fundamentales para el trabajo en equipo, como la comunicación, el entusiasmo, el aprendizaje continuo y una de las más importantes en IT: la capacidad de adpatarme a cualquier stack de forma ágil y autónoma.
 
-En mis equipos de trabajo me he situado como referente pedagógico, pues disfruto aprendiendo conceptos nuevos y compartiendo lo aprendido, y como desarrolladora back end diseñando bases de datos relacionales y construyéndolas en SQL Server Studio Management desde proyectos Web API con .NET Entity FW, atendiendo también el desarrollo del front según lo requiera cada proyecto.
-
-Con todas estas experiencias, me encuentro abierta a oportunidades laborales donde voy a seguir afianzando y aumentando mis competencias, alcanzando todos los objetivos que se presenten en cada proyecto del que forme parte.
+Con todo esto, me encuentro abierta a oportunidades donde seguir afianzando y aumentando mis competencias, alcanzando todos los objetivos que se presenten en cada proyecto del que forme parte.
 
 ## Stack 💻
 
